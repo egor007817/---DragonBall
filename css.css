@@ -1,0 +1,182 @@
+body{
+    width: 1279px;
+    height: 805px;
+    margin: 0px;
+    background-color: black;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+#gokystart{
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+#spann{
+    position: absolute;
+   margin-left: 360px;
+   margin-top: 100px;
+   font-weight: 900;
+   -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+font-size: 45px;
+color: rgb(58, 58, 58);
+background-color: black;
+color: white;
+}
+#but{
+    position: absolute;
+    margin-top: 350px;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+width: 800px;
+height: 200px;
+border: 0px;
+opacity: 90%;
+background-color: rgb(235, 101, 194);
+margin-left: 260px;
+border-radius: 9px;
+}
+#start{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+#but:hover{
+    background-color: rgb(0, 0, 0);
+    opacity: 100%;
+    color: rgb(211, 110, 110);
+    cursor: pointer;
+}
+.divv{
+    position: absolute;
+    background-color: black;
+    opacity: 85%;
+    border-radius: 7px;
+    width: 650px;
+    height: 320px;
+    margin-top: 210px;
+    margin-left: 335px;
+    display: none;
+    color: white;
+}
+.butvari1{
+width: 230px;
+height: 50px;
+background-color: white;
+position: absolute;
+margin-top: 570px;
+border: 0px;
+border-radius: 7px;
+margin-left: 335px;
+opacity: 85%;
+background-color: black;
+display: none;
+color: white;
+}
+.butvari2{
+    width: 230px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    margin-top: 570px;
+    border: 0px;
+    border-radius: 7px;
+    margin-left: 755px;
+    opacity: 85%;
+    background-color: black;
+    display: none;
+    color: white;
+    }
+    .butvari1:hover{
+        cursor: pointer;
+        background-color: rgb(22, 8, 36);
+    }
+    .butvari2:hover{
+        cursor: pointer;
+        background-color: rgb(22, 8, 36);
+    }
+    #div78{
+        color: white;
+        position: absolute;
+    }
+    #v1{
+        width: 230px;
+height: 50px;
+background-color: white;
+position: absolute;
+margin-top: 570px;
+border: 0px;
+border-radius: 7px;
+margin-left: 335px;
+opacity: 85%;
+background-color: black;
+display: none;
+color: white;
+    }
+    .se{
+        width: 230px;
+height: 50px;
+background-color: white;
+position: absolute;
+margin-top: 570px;
+border: 0px;
+border-radius: 7px;
+margin-left: 535px;
+opacity: 85%;
+background-color: black;
+color: white;
+display: none;
+    }
+    .se1{
+        width: 160px;
+        height: 50px;
+        background-color: white;
+        position: absolute;
+        margin-top: 650px;
+        border: 0px;
+        border-radius: 7px;
+        margin-left: 825px;
+        opacity: 85%;
+        background-color: black;
+        color: white;
+        display: none;
+    }
+    .se1:hover{
+        cursor: pointer;
+        background-color: rgb(22, 8, 36);
+    }
+    .clas11{
+        position: absolute;
+        color: white;
+        display: none;
+    }
+    #wduv{
+        display: none;
+    }
+    .divv{
+        padding-top: 20px;
+        padding-left: 20px;
+        font-weight: bold;
+        font-size: 29px;
+    }
+    #divi{
+        display: none;
+    }
